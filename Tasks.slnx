@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Tasks.4/Tasks.4.csproj" Id="b0d133e2-b305-4235-9c7c-5bf0c6a00f16" />
   <Project Path="Tasks/Tasks.csproj" />
   <Project Path="tasks_2/tasks_2.csproj" Id="e87a7021-5922-48b3-8c8e-370131761736" />
   <Project Path="tasks_3/tasks_3.csproj" Id="e729a8c1-7193-4ab5-9934-0abdd276c1d0" />
